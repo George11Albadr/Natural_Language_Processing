@@ -9,6 +9,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# macOS
+.DS_Store
 
 # Material de clase (no se sube al repositorio)
 pptx/
