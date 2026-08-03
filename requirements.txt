@@ -1,0 +1,11 @@
+pandas
+matplotlib
+nltk
+spacy
+wordcloud
+tabulate
+jupyter
+ipykernel
+
+# Modelo de espanol para spaCy (instalar aparte):
+#   python -m spacy download es_core_news_sm
