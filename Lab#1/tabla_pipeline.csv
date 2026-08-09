@@ -1,6 +1,6 @@
 paso,tokens,tipos,% reduccion tokens (acum.),% reduccion tipos (acum.),% tokens (paso),% tipos (paso)
-i. Tokenizacion,631733,38947,0.0,0.0,,
-ii. Minusculas,631733,36099,0.0,7.31,-0.0,7.31
-iii. Sin puntuacion,578700,27315,8.39,29.87,8.39,24.33
-iv. Sin stopwords,299276,27104,52.63,30.41,48.28,0.77
-v. Lematizacion,299276,20237,52.63,48.04,-0.0,25.34
+i. Tokenizacion,631740,38941,0.0,0.0,,
+ii. Minusculas,631740,36093,0.0,7.31,-0.0,7.31
+iii. Sin puntuacion,578707,27315,8.39,29.86,8.39,24.32
+iv. Sin stopwords,299283,27104,52.63,30.4,48.28,0.77
+v. Lematizacion,299283,20237,52.63,48.03,-0.0,25.34

@@ -6,6 +6,7 @@ wordcloud
 tabulate
 jupyter
 ipykernel
+scikit-learn
 
 # Modelo de espanol para spaCy (instalar aparte):
 #   python -m spacy download es_core_news_sm
