@@ -19,3 +19,4 @@ pptx/
 # Artefactos generados al ejecutar los notebooks
 figuras/
 *.pkl
+*.pptx
