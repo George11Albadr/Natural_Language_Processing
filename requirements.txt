@@ -1,6 +1,6 @@
 pandas
 matplotlib
-nltk
+nltk>=3.8.1
 spacy
 wordcloud
 tabulate
@@ -8,6 +8,8 @@ jupyter
 ipykernel
 scikit-learn
 seaborn
+torch>=2.0.0
+gensim>=4.3.0
 
 # Modelo de espanol para spaCy (instalar aparte):
 #   python -m spacy download es_core_news_sm

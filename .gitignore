@@ -20,3 +20,4 @@ pptx/
 figuras/
 *.pkl
 *.pptx
+nltk_data/
