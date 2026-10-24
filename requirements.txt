@@ -1,15 +1,15 @@
-pandas
-matplotlib
-nltk>=3.8.1
-spacy
-wordcloud
-tabulate
-jupyter
-ipykernel
-scikit-learn
-seaborn
-torch>=2.0.0
-gensim>=4.3.0
-
-# Modelo de espanol para spaCy (instalar aparte):
-#   python -m spacy download es_core_news_sm
+# Dependencias del Curso de Procesamiento de Lenguaje Natural (UFM)
+# Laboratorio #9 — Embeddings de Palabras (Word2Vec, FastText, PPMI+SVD)
+gensim==4.3.3
+scikit-learn==1.6.1
+torch==2.8.0
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.3.3
+matplotlib==3.9.4
+seaborn==0.13.2
+nltk==3.9.2
+kagglehub==0.3.13
+tabulate==0.9.0
+pyparsing==3.2.5
+urllib3==1.26.20

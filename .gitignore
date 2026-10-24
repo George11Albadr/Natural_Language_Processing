@@ -15,9 +15,14 @@ __pycache__/
 # Material de clase (no se sube al repositorio)
 pptx/
 *.pdf
+*.vec
+*.bin
+embeddings-m-model*
 
 # Artefactos generados al ejecutar los notebooks
 figuras/
 *.pkl
 *.pptx
 nltk_data/
+Lab\#9/mejor_modelo_word2vec.kv
+Lab\#9/df_total.csv
