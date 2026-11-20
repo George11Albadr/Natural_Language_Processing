@@ -26,3 +26,14 @@ figuras/
 nltk_data/
 Lab\#9/mejor_modelo_word2vec.kv
 Lab\#9/df_total.csv
+
+*_reviews.csv
+figures/
+/data/*
+!/data/anotacion/
+/modelos/
+
+# Datos tabulares e imágenes: nunca se versionan (se regeneran con los notebooks)
+*.csv
+*.png
+*.pptx

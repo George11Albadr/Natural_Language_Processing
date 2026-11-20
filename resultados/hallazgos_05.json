@@ -1,0 +1,211 @@
+{
+ "anotadas_n": 300,
+ "debiles_n": 51598,
+ "decidido_por_dev_real": true,
+ "dev_n": 12424,
+ "dev_real": {
+  "('<mask>', 'LSTM')": {
+   "F1 ciclo": 0.2949,
+   "recall ciclo": 0.2889
+  },
+  "('<mask>', 'LogReg')": {
+   "F1 ciclo": 0.2947,
+   "recall ciclo": 0.2808
+  },
+  "('borrado', 'LSTM')": {
+   "F1 ciclo": 0.4218,
+   "recall ciclo": 0.5214
+  },
+  "('borrado', 'LogReg')": {
+   "F1 ciclo": 0.2831,
+   "recall ciclo": 0.3738
+  }
+ },
+ "dev_sin_n": 12321,
+ "enmascaradas_n": 10812,
+ "llegada_en_macro": false,
+ "llegada_positivos_anotados": 6,
+ "modelo_preferido_dev": "LSTM",
+ "pivot_sin_disparador": {
+  "3. Naive Bayes": {
+   "<mask>": 0.0917,
+   "borrado": 0.1125
+  },
+  "4. LogReg": {
+   "<mask>": 0.4253,
+   "borrado": 0.4244
+  },
+  "5. MLP promedio fastText": {
+   "<mask>": 0.4228,
+   "borrado": 0.4472
+  },
+  "6a. RNN": {
+   "<mask>": 0.1798,
+   "borrado": 0.3223
+  },
+  "6b. LSTM": {
+   "<mask>": 0.3105,
+   "borrado": 0.4874
+  }
+ },
+ "positivos_debiles": {
+  "atencion": 5485,
+  "cobro": 702,
+  "cocina_mesa": 2905,
+  "llegada": 1099,
+  "local": 2151,
+  "precio": 6091,
+  "sabor": 4302
+ },
+ "semillas": [
+  42,
+  43,
+  44
+ ],
+ "tabla_dev": {
+  "1. Clase mayoritaria": {
+   "C": null,
+   "F1 7 etapas dev": 0.0,
+   "F1 ciclo dev": 0.0,
+   "F1 ciclo sin disparador": 0.0,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "2a. Regex v1 (avance)": {
+   "C": null,
+   "F1 7 etapas dev": 0.9281,
+   "F1 ciclo dev": 0.9136,
+   "F1 ciclo sin disparador": 0.0,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "2b. Regex v2 (03)": {
+   "C": null,
+   "F1 7 etapas dev": null,
+   "F1 ciclo dev": null,
+   "F1 ciclo sin disparador": 0.0,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "3. Naive Bayes (<mask>)": {
+   "C": null,
+   "F1 7 etapas dev": 0.6245,
+   "F1 ciclo dev": 0.582,
+   "F1 ciclo sin disparador": 0.0917,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "3. Naive Bayes (borrado)": {
+   "C": null,
+   "F1 7 etapas dev": 0.6348,
+   "F1 ciclo dev": 0.5912,
+   "F1 ciclo sin disparador": 0.1125,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "4. LogReg (<mask>)": {
+   "C": 3.0,
+   "F1 7 etapas dev": 0.8837,
+   "F1 ciclo dev": 0.8694,
+   "F1 ciclo sin disparador": 0.4253,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "4. LogReg (borrado)": {
+   "C": 10.0,
+   "F1 7 etapas dev": 0.8079,
+   "F1 ciclo dev": 0.8008,
+   "F1 ciclo sin disparador": 0.4244,
+   "segundos": null,
+   "± F1 7 etapas dev": null,
+   "± F1 ciclo dev": null,
+   "± F1 ciclo sin disparador": null,
+   "épocas": null
+  },
+  "5. MLP promedio fastText (<mask>)": {
+   "C": null,
+   "F1 7 etapas dev": 0.7022,
+   "F1 ciclo dev": 0.6726,
+   "F1 ciclo sin disparador": 0.4228,
+   "segundos": 41.0,
+   "± F1 7 etapas dev": 0.0082,
+   "± F1 ciclo dev": 0.0031,
+   "± F1 ciclo sin disparador": 0.01,
+   "épocas": 4.0
+  },
+  "5. MLP promedio fastText (borrado)": {
+   "C": null,
+   "F1 7 etapas dev": 0.6841,
+   "F1 ciclo dev": 0.6564,
+   "F1 ciclo sin disparador": 0.4472,
+   "segundos": 36.0,
+   "± F1 7 etapas dev": 0.0051,
+   "± F1 ciclo dev": 0.0125,
+   "± F1 ciclo sin disparador": 0.0052,
+   "épocas": 5.0
+  },
+  "6a. RNN (<mask>)": {
+   "C": null,
+   "F1 7 etapas dev": 0.58,
+   "F1 ciclo dev": 0.5169,
+   "F1 ciclo sin disparador": 0.1798,
+   "segundos": 232.0,
+   "± F1 7 etapas dev": 0.0899,
+   "± F1 ciclo dev": 0.1134,
+   "± F1 ciclo sin disparador": 0.0164,
+   "épocas": 6.0
+  },
+  "6a. RNN (borrado)": {
+   "C": null,
+   "F1 7 etapas dev": 0.6425,
+   "F1 ciclo dev": 0.599,
+   "F1 ciclo sin disparador": 0.3223,
+   "segundos": 233.0,
+   "± F1 7 etapas dev": 0.074,
+   "± F1 ciclo dev": 0.1046,
+   "± F1 ciclo sin disparador": 0.0465,
+   "épocas": 2.0
+  },
+  "6b. LSTM (<mask>)": {
+   "C": null,
+   "F1 7 etapas dev": 0.9204,
+   "F1 ciclo dev": 0.9056,
+   "F1 ciclo sin disparador": 0.3105,
+   "segundos": 299.0,
+   "± F1 7 etapas dev": 0.0152,
+   "± F1 ciclo dev": 0.0093,
+   "± F1 ciclo sin disparador": 0.0052,
+   "épocas": 4.0
+  },
+  "6b. LSTM (borrado)": {
+   "C": null,
+   "F1 7 etapas dev": 0.8406,
+   "F1 ciclo dev": 0.838,
+   "F1 ciclo sin disparador": 0.4874,
+   "segundos": 256.0,
+   "± F1 7 etapas dev": 0.0076,
+   "± F1 ciclo dev": 0.0042,
+   "± F1 ciclo sin disparador": 0.0179,
+   "épocas": 3.0
+  }
+ },
+ "variante_elegida": "borrado"
+}

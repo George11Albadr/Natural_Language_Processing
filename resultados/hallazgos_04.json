@@ -1,0 +1,19 @@
+{
+ "gold_regex_marca": 29,
+ "kappa": {
+  "atencion": 1.0,
+  "cobro": 0.918,
+  "cocina_mesa": 0.928,
+  "llegada": null,
+  "local": 1.0,
+  "precio": 0.864,
+  "sabor": 0.858
+ },
+ "kappa_ciclo_medio": 0.9487,
+ "madrid_cobertura_oracion_pct": 10.39,
+ "madrid_neg_oraciones": 75265,
+ "n_doble": 100,
+ "n_gold_base": 300,
+ "n_gold_extra": 100,
+ "n_madrid_train": 300
+}
