@@ -1,0 +1,270 @@
+{
+ "cobertura": {
+  "v1 (avance)": {
+   "por oración, 7 etapas %": 10.4,
+   "por oración, ciclo %": 5.2,
+   "por reseña, 7 etapas %": 49.8,
+   "por reseña, ciclo %": 27.7
+  },
+  "v2 (+6 términos, sin 'slow cooked', con guardia)": {
+   "por oración, 7 etapas %": 13.4,
+   "por oración, ciclo %": 7.0,
+   "por reseña, 7 etapas %": 59.2,
+   "por reseña, ciclo %": 34.9
+  }
+ },
+ "ejemplos_v1_no_ve": [
+  "Poor service, no one behind bar to serve!",
+  "At first we asked for glass of water and the waitress was so impolite...",
+  "Nobody apologized at all for the bad service, they didn't seem to care about us, what a shame."
+ ],
+ "familias_v2": {
+  "agregado a la cuenta (v2)": {
+   "entra": true,
+   "oraciones": 103,
+   "razón 1-2★ / 5★": 39.9
+  },
+  "apurados": {
+   "entra": false,
+   "oraciones": 148,
+   "razón 1-2★ / 5★": 5.8
+  },
+  "comida mala (v2)": {
+   "entra": true,
+   "oraciones": 1512,
+   "razón 1-2★ / 5★": 62.0
+  },
+  "la comida tardó X minutos": {
+   "entra": false,
+   "oraciones": 32,
+   "razón 1-2★ / 5★": 23.7
+  },
+  "maleducado (v2)": {
+   "entra": true,
+   "oraciones": 531,
+   "razón 1-2★ / 5★": 89.5
+  },
+  "nadie atendió (v2)": {
+   "entra": true,
+   "oraciones": 86,
+   "razón 1-2★ / 5★": Infinity
+  },
+  "rechazo en la puerta": {
+   "entra": false,
+   "oraciones": 164,
+   "razón 1-2★ / 5★": 2.1
+  },
+  "servicio malo (v2)": {
+   "entra": true,
+   "oraciones": 1668,
+   "razón 1-2★ / 5★": 110.8
+  },
+  "tirar el dinero (v2)": {
+   "entra": true,
+   "oraciones": 825,
+   "razón 1-2★ / 5★": 46.9
+  }
+ },
+ "guardia": {
+  "caro": {
+   "oraciones con guardia": 6427,
+   "razón con guardia": 6.1,
+   "razón v1": 4.2
+  },
+  "cobro indebido": {
+   "oraciones con guardia": 561,
+   "razón con guardia": 24.3,
+   "razón v1": 18.3
+  },
+  "comida fría": {
+   "oraciones con guardia": 629,
+   "razón con guardia": 31.0,
+   "razón v1": 31.1
+  },
+  "error en la cuenta": {
+   "oraciones con guardia": 57,
+   "razón con guardia": 16.7,
+   "razón v1": 17.4
+  },
+  "espera de comida": {
+   "oraciones con guardia": 232,
+   "razón con guardia": 27.8,
+   "razón v1": 28.0
+  },
+  "espera de mesa / reserva": {
+   "oraciones con guardia": 1099,
+   "razón con guardia": 1.8,
+   "razón v1": 1.7
+  },
+  "grasoso": {
+   "oraciones con guardia": 605,
+   "razón con guardia": 17.1,
+   "razón v1": 9.8
+  },
+  "ignorados": {
+   "oraciones con guardia": 1180,
+   "razón con guardia": 76.8,
+   "razón v1": 64.6
+  },
+  "lentitud": {
+   "oraciones con guardia": 2189,
+   "razón con guardia": 6.0,
+   "razón v1": 6.0
+  },
+  "olvidos": {
+   "oraciones con guardia": 711,
+   "razón con guardia": 6.2,
+   "razón v1": 5.9
+  },
+  "pedido equivocado": {
+   "oraciones con guardia": 59,
+   "razón con guardia": 85.7,
+   "razón v1": 85.7
+  },
+  "ruido": {
+   "oraciones con guardia": 1762,
+   "razón con guardia": 1.6,
+   "razón v1": 1.3
+  },
+  "salado": {
+   "oraciones con guardia": 986,
+   "razón con guardia": 8.5,
+   "razón v1": 7.6
+  },
+  "sin sabor": {
+   "oraciones con guardia": 1434,
+   "razón con guardia": 69.1,
+   "razón v1": 65.3
+  },
+  "suciedad": {
+   "oraciones con guardia": 394,
+   "razón con guardia": 46.5,
+   "razón v1": 36.5
+  },
+  "trampa turística": {
+   "oraciones con guardia": 555,
+   "razón con guardia": 12.8,
+   "razón v1": 8.3
+  },
+  "trato grosero": {
+   "oraciones con guardia": 1765,
+   "razón con guardia": 105.0,
+   "razón v1": 89.1
+  }
+ },
+ "n_candidatos_pos": 216,
+ "positivos_v1_v2": {
+  "atencion": {
+   "positivos v1": 3722,
+   "positivos v2": 5485,
+   "razón 1-2★/5★ v1": 32.1,
+   "razón 1-2★/5★ v2": 48.0
+  },
+  "cobro": {
+   "positivos v1": 700,
+   "positivos v2": 702,
+   "razón 1-2★/5★ v1": 18.1,
+   "razón 1-2★/5★ v2": 25.7
+  },
+  "cocina_mesa": {
+   "positivos v1": 3143,
+   "positivos v2": 2905,
+   "razón 1-2★/5★ v1": 9.4,
+   "razón 1-2★/5★ v2": 12.6
+  },
+  "llegada": {
+   "positivos v1": 1177,
+   "positivos v2": 1099,
+   "razón 1-2★/5★ v1": 1.7,
+   "razón 1-2★/5★ v2": 1.8
+  },
+  "local": {
+   "positivos v1": 2410,
+   "positivos v2": 2151,
+   "razón 1-2★/5★ v1": 2.9,
+   "razón 1-2★/5★ v2": 3.5
+  },
+  "precio": {
+   "positivos v1": 8419,
+   "positivos v2": 7637,
+   "razón 1-2★/5★ v1": 4.4,
+   "razón 1-2★/5★ v2": 7.6
+  },
+  "sabor": {
+   "positivos v1": 3130,
+   "positivos v2": 4302,
+   "razón 1-2★/5★ v1": 16.4,
+   "razón 1-2★/5★ v2": 30.4
+  }
+ },
+ "terminos_v1": {
+  "caro": {
+   "oraciones": 7803.0,
+   "razón 1-2★ / 5★": 4.2
+  },
+  "cobro indebido": {
+   "oraciones": 646.0,
+   "razón 1-2★ / 5★": 18.3
+  },
+  "comida fría": {
+   "oraciones": 632.0,
+   "razón 1-2★ / 5★": 31.1
+  },
+  "error en la cuenta": {
+   "oraciones": 59.0,
+   "razón 1-2★ / 5★": 17.4
+  },
+  "espera de comida": {
+   "oraciones": 234.0,
+   "razón 1-2★ / 5★": 28.0
+  },
+  "espera de mesa / reserva": {
+   "oraciones": 1177.0,
+   "razón 1-2★ / 5★": 1.7
+  },
+  "grasoso": {
+   "oraciones": 719.0,
+   "razón 1-2★ / 5★": 9.8
+  },
+  "ignorados": {
+   "oraciones": 1216.0,
+   "razón 1-2★ / 5★": 64.6
+  },
+  "lentitud": {
+   "oraciones": 2242.0,
+   "razón 1-2★ / 5★": 6.0
+  },
+  "olvidos": {
+   "oraciones": 739.0,
+   "razón 1-2★ / 5★": 5.9
+  },
+  "pedido equivocado": {
+   "oraciones": 59.0,
+   "razón 1-2★ / 5★": 85.7
+  },
+  "ruido": {
+   "oraciones": 2002.0,
+   "razón 1-2★ / 5★": 1.3
+  },
+  "salado": {
+   "oraciones": 1049.0,
+   "razón 1-2★ / 5★": 7.6
+  },
+  "sin sabor": {
+   "oraciones": 1457.0,
+   "razón 1-2★ / 5★": 65.3
+  },
+  "suciedad": {
+   "oraciones": 414.0,
+   "razón 1-2★ / 5★": 36.5
+  },
+  "trampa turística": {
+   "oraciones": 670.0,
+   "razón 1-2★ / 5★": 8.3
+  },
+  "trato grosero": {
+   "oraciones": 1882.0,
+   "razón 1-2★ / 5★": 89.1
+  }
+ }
+}

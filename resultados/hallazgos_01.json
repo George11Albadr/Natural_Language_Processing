@@ -1,0 +1,154 @@
+{
+ "atencion_madrid_avance_dicho": 43,
+ "mediana_palabras": {
+  "Barcelona": {
+   "1★": 76.0,
+   "2★": 77.0,
+   "3★": 64.0,
+   "4★": 53.0,
+   "5★": 49.0,
+   "Spearman estrellas–palabras": -0.151
+  },
+  "London": {
+   "1★": 107.0,
+   "2★": 110.0,
+   "3★": 89.0,
+   "4★": 64.0,
+   "5★": 56.0,
+   "Spearman estrellas–palabras": -0.217
+  },
+  "Madrid": {
+   "1★": 75.0,
+   "2★": 74.0,
+   "3★": 60.0,
+   "4★": 52.0,
+   "5★": 48.0,
+   "Spearman estrellas–palabras": -0.142
+  },
+  "New_Delhi": {
+   "1★": 78.0,
+   "2★": 77.0,
+   "3★": 58.0,
+   "4★": 50.0,
+   "5★": 44.0,
+   "Spearman estrellas–palabras": -0.161
+  },
+  "New_York": {
+   "1★": 101.0,
+   "2★": 96.0,
+   "3★": 74.0,
+   "4★": 60.0,
+   "5★": 57.0,
+   "Spearman estrellas–palabras": -0.145
+  },
+  "Paris": {
+   "1★": 83.0,
+   "2★": 81.0,
+   "3★": 66.0,
+   "4★": 57.0,
+   "5★": 57.0,
+   "Spearman estrellas–palabras": -0.108
+  }
+ },
+ "pct_12": {
+  "Barcelona": 10.5607,
+  "London": 7.8084,
+  "Madrid": 9.026,
+  "New_Delhi": 5.978,
+  "New_York": 7.12,
+  "Paris": 11.4761
+ },
+ "pct_5_max": 58.6658,
+ "pct_5_min": 50.3402,
+ "pct_atencion_12": {
+  "Barcelona": 17.1885,
+  "London": 16.4598,
+  "Madrid": 17.2105,
+  "New_Delhi": 10.2181,
+  "New_York": 14.6282,
+  "Paris": 20.7822
+ },
+ "pct_atencion_5": {
+  "Barcelona": 0.5023,
+  "London": 0.6167,
+  "Madrid": 0.4498,
+  "New_Delhi": 0.3907,
+  "New_York": 0.5973,
+  "Paris": 0.7913
+ },
+ "razon_atencion": {
+  "Barcelona": 34.2166,
+  "London": 26.689,
+  "Madrid": 38.2614,
+  "New_Delhi": 26.1556,
+  "New_York": 24.49,
+  "Paris": 26.2647
+ },
+ "razon_por_etapa": {
+  "atencion": {
+   "Barcelona": 34.2166,
+   "London": 26.689,
+   "Madrid": 38.2614,
+   "New_Delhi": 26.1556,
+   "New_York": 24.49,
+   "Paris": 26.2647
+  },
+  "cobro": {
+   "Barcelona": 29.8588,
+   "London": 11.8559,
+   "Madrid": 20.952,
+   "New_Delhi": 25.0307,
+   "New_York": 19.0849,
+   "Paris": 19.2363
+  },
+  "cocina_mesa": {
+   "Barcelona": 10.4042,
+   "London": 12.5841,
+   "Madrid": 11.8025,
+   "New_Delhi": 8.7196,
+   "New_York": 11.1266,
+   "Paris": 7.6171
+  },
+  "llegada": {
+   "Barcelona": 1.3023,
+   "London": 2.4451,
+   "Madrid": 2.3166,
+   "New_Delhi": 2.4883,
+   "New_York": 1.8993,
+   "Paris": 1.9847
+  },
+  "local": {
+   "Barcelona": 4.7109,
+   "London": 3.7058,
+   "Madrid": 3.6414,
+   "New_Delhi": 6.5927,
+   "New_York": 2.5338,
+   "Paris": 4.6969
+  },
+  "precio": {
+   "Barcelona": 6.1152,
+   "London": 4.1716,
+   "Madrid": 5.6006,
+   "New_Delhi": 3.7862,
+   "New_York": 4.0925,
+   "Paris": 3.9747
+  },
+  "sabor": {
+   "Barcelona": 22.7637,
+   "London": 20.4914,
+   "Madrid": 22.1844,
+   "New_Delhi": 16.3582,
+   "New_York": 18.1568,
+   "Paris": 21.0793
+  }
+ },
+ "ttr": {
+  "Barcelona": 0.1019,
+  "London": 0.1078,
+  "Madrid": 0.1085,
+  "New_Delhi": 0.1217,
+  "New_York": 0.1089,
+  "Paris": 0.1096,
+  "SemEval (es)": 0.1353
+ }
+}

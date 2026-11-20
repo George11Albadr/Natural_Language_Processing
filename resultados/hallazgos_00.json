@@ -1,0 +1,96 @@
+{
+ "oraciones_por_ciudad": {
+  "Barcelona": 1981854,
+  "London": 5600906,
+  "Madrid": 771732,
+  "New_Delhi": 674167,
+  "New_York": 3015122,
+  "Paris": 2612293
+ },
+ "oraciones_total": 14656074,
+ "pct_resenas_autor_repetido_max": 68.6,
+ "pct_resenas_autor_repetido_min": 58.5,
+ "por_ciudad": {
+  "Barcelona": {
+   "% 1-2★": 10.6,
+   "% 5★": 58.3,
+   "% de autores con >1 reseña": 31.9,
+   "% de reseñas de autores con >1": 61.3,
+   "Mediana palabras": 53,
+   "Reseñas": 392568,
+   "Rest. ≥100": 914,
+   "Restaurantes": 2430
+  },
+  "London": {
+   "% 1-2★": 7.8,
+   "% 5★": 58.7,
+   "% de autores con >1 reseña": 29.1,
+   "% de reseñas de autores con >1": 64.3,
+   "Mediana palabras": 63,
+   "Reseñas": 995832,
+   "Rest. ≥100": 1679,
+   "Restaurantes": 1796
+  },
+  "Madrid": {
+   "% 1-2★": 9.0,
+   "% 5★": 56.3,
+   "% de autores con >1 reseña": 30.5,
+   "% de reseñas de autores con >1": 58.5,
+   "Mediana palabras": 52,
+   "Reseñas": 154819,
+   "Rest. ≥100": 366,
+   "Restaurantes": 1414
+  },
+  "New_Delhi": {
+   "% 1-2★": 6.0,
+   "% 5★": 51.3,
+   "% de autores con >1 reseña": 29.1,
+   "% de reseñas de autores con >1": 65.3,
+   "Mediana palabras": 49,
+   "Reseñas": 128838,
+   "Rest. ≥100": 310,
+   "Restaurantes": 992
+  },
+  "New_York": {
+   "% 1-2★": 7.1,
+   "% 5★": 50.7,
+   "% de autores con >1 reseña": 36.0,
+   "% de reseñas de autores con >1": 68.6,
+   "Mediana palabras": 61,
+   "Reseñas": 509058,
+   "Rest. ≥100": 1086,
+   "Restaurantes": 1250
+  },
+  "Paris": {
+   "% 1-2★": 11.5,
+   "% 5★": 50.3,
+   "% de autores con >1 reseña": 33.9,
+   "% de reseñas de autores con >1": 65.5,
+   "Mediana palabras": 60,
+   "Reseñas": 465201,
+   "Rest. ≥100": 1191,
+   "Restaurantes": 3975
+  }
+ },
+ "resenas_crudas_total": 2756038,
+ "resenas_total": 2646316,
+ "restaurantes_100": 5546,
+ "restaurantes_total": 11857,
+ "semeval": {
+  "implicitas": 1124,
+  "opiniones": 3792,
+  "oraciones": 2946,
+  "resenas": 895
+ },
+ "verificacion_avance": {
+  "Costo Atención ★": -1.58,
+  "Costo Cobro ★": -0.98,
+  "Costo Cocina → mesa ★": -0.75,
+  "Costo Llegada ★": -0.2,
+  "F1 polaridad LogReg (SemEval)": 0.834,
+  "F1 polaridad NB (SemEval)": 0.78,
+  "Reseñas Madrid": 154819.0,
+  "Restaurantes Madrid": 1414.0
+ },
+ "verificacion_ok": true
+}

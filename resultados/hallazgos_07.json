@@ -1,0 +1,1079 @@
+{
+ "costos_regex_v1": {
+  "Barcelona": {
+   "atencion": {
+    "% de reseñas": 2.8472,
+    "IC inf": -1.5988,
+    "IC sup": -1.5349,
+    "β": -1.5665
+   },
+   "cobro": {
+    "% de reseñas": 0.5214,
+    "IC inf": -1.1116,
+    "IC sup": -0.9932,
+    "β": -1.0504
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.7042,
+    "IC inf": -0.77,
+    "IC sup": -0.7109,
+    "β": -0.7387
+   },
+   "llegada": {
+    "% de reseñas": 1.842,
+    "IC inf": -0.1369,
+    "IC sup": -0.0332,
+    "β": -0.0772
+   },
+   "local": {
+    "% de reseñas": 1.6051,
+    "IC inf": -0.5452,
+    "IC sup": -0.4834,
+    "β": -0.5111
+   },
+   "precio": {
+    "% de reseñas": 6.2287,
+    "IC inf": -0.6436,
+    "IC sup": -0.5838,
+    "β": -0.6141
+   },
+   "sabor": {
+    "% de reseñas": 2.5545,
+    "IC inf": -1.2428,
+    "IC sup": -1.182,
+    "β": -1.21
+   }
+  },
+  "London": {
+   "atencion": {
+    "% de reseñas": 2.5019,
+    "IC inf": -1.5118,
+    "IC sup": -1.4549,
+    "β": -1.481
+   },
+   "cobro": {
+    "% de reseñas": 2.0086,
+    "IC inf": -0.8225,
+    "IC sup": -0.7737,
+    "β": -0.7968
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.9558,
+    "IC inf": -0.8793,
+    "IC sup": -0.8388,
+    "β": -0.8589
+   },
+   "llegada": {
+    "% de reseñas": 1.8347,
+    "IC inf": -0.2752,
+    "IC sup": -0.1837,
+    "β": -0.2241
+   },
+   "local": {
+    "% de reseñas": 3.4628,
+    "IC inf": -0.4322,
+    "IC sup": -0.4002,
+    "β": -0.4155
+   },
+   "precio": {
+    "% de reseñas": 5.7423,
+    "IC inf": -0.5222,
+    "IC sup": -0.4834,
+    "β": -0.5015
+   },
+   "sabor": {
+    "% de reseñas": 2.7886,
+    "IC inf": -1.2399,
+    "IC sup": -1.1916,
+    "β": -1.2162
+   }
+  },
+  "Madrid": {
+   "atencion": {
+    "% de reseñas": 2.4932,
+    "IC inf": -1.6253,
+    "IC sup": -1.5271,
+    "β": -1.5757
+   },
+   "cobro": {
+    "% de reseñas": 0.5322,
+    "IC inf": -1.0872,
+    "IC sup": -0.863,
+    "β": -0.9788
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.2956,
+    "IC inf": -0.796,
+    "IC sup": -0.7011,
+    "β": -0.7475
+   },
+   "llegada": {
+    "% de reseñas": 0.8875,
+    "IC inf": -0.2796,
+    "IC sup": -0.1387,
+    "β": -0.2042
+   },
+   "local": {
+    "% de reseñas": 1.7653,
+    "IC inf": -0.4508,
+    "IC sup": -0.3404,
+    "β": -0.3938
+   },
+   "precio": {
+    "% de reseñas": 6.3326,
+    "IC inf": -0.666,
+    "IC sup": -0.5664,
+    "β": -0.6153
+   },
+   "sabor": {
+    "% de reseñas": 2.2878,
+    "IC inf": -1.2453,
+    "IC sup": -1.1322,
+    "β": -1.1834
+   }
+  },
+  "New_Delhi": {
+   "atencion": {
+    "% de reseñas": 1.2535,
+    "IC inf": -1.4018,
+    "IC sup": -1.2595,
+    "β": -1.3368
+   },
+   "cobro": {
+    "% de reseñas": 0.5883,
+    "IC inf": -1.0089,
+    "IC sup": -0.8245,
+    "β": -0.9284
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.5202,
+    "IC inf": -0.6459,
+    "IC sup": -0.5532,
+    "β": -0.5997
+   },
+   "llegada": {
+    "% de reseñas": 0.9624,
+    "IC inf": -0.3201,
+    "IC sup": -0.0339,
+    "β": -0.1467
+   },
+   "local": {
+    "% de reseñas": 2.4022,
+    "IC inf": -0.5274,
+    "IC sup": -0.4229,
+    "β": -0.4759
+   },
+   "precio": {
+    "% de reseñas": 4.5305,
+    "IC inf": -0.4066,
+    "IC sup": -0.3381,
+    "β": -0.3714
+   },
+   "sabor": {
+    "% de reseñas": 2.0685,
+    "IC inf": -0.9868,
+    "IC sup": -0.8529,
+    "β": -0.9195
+   }
+  },
+  "New_York": {
+   "atencion": {
+    "% de reseñas": 2.2247,
+    "IC inf": -1.4221,
+    "IC sup": -1.3613,
+    "β": -1.391
+   },
+   "cobro": {
+    "% de reseñas": 0.3601,
+    "IC inf": -1.0974,
+    "IC sup": -0.9444,
+    "β": -1.0152
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.5311,
+    "IC inf": -0.7909,
+    "IC sup": -0.7322,
+    "β": -0.7615
+   },
+   "llegada": {
+    "% de reseñas": 1.5142,
+    "IC inf": -0.1664,
+    "IC sup": -0.088,
+    "β": -0.1263
+   },
+   "local": {
+    "% de reseñas": 6.2673,
+    "IC inf": -0.354,
+    "IC sup": -0.3133,
+    "β": -0.333
+   },
+   "precio": {
+    "% de reseñas": 5.8178,
+    "IC inf": -0.5119,
+    "IC sup": -0.4625,
+    "β": -0.4879
+   },
+   "sabor": {
+    "% de reseñas": 2.6975,
+    "IC inf": -1.1425,
+    "IC sup": -1.091,
+    "β": -1.116
+   }
+  },
+  "Paris": {
+   "atencion": {
+    "% de reseñas": 3.7162,
+    "IC inf": -1.5885,
+    "IC sup": -1.5299,
+    "β": -1.5636
+   },
+   "cobro": {
+    "% de reseñas": 0.3805,
+    "IC inf": -1.0975,
+    "IC sup": -0.9645,
+    "β": -1.0244
+   },
+   "cocina_mesa": {
+    "% de reseñas": 2.7835,
+    "IC inf": -0.6742,
+    "IC sup": -0.6226,
+    "β": -0.6498
+   },
+   "llegada": {
+    "% de reseñas": 1.3859,
+    "IC inf": -0.2832,
+    "IC sup": -0.0818,
+    "β": -0.1827
+   },
+   "local": {
+    "% de reseñas": 1.9533,
+    "IC inf": -0.525,
+    "IC sup": -0.4647,
+    "β": -0.494
+   },
+   "precio": {
+    "% de reseñas": 7.2805,
+    "IC inf": -0.4683,
+    "IC sup": -0.431,
+    "β": -0.4506
+   },
+   "sabor": {
+    "% de reseñas": 2.3764,
+    "IC inf": -1.2748,
+    "IC sup": -1.2275,
+    "β": -1.251
+   }
+  }
+ },
+ "costos_sensibilidad": {
+  "Barcelona": {
+   "atencion": {
+    "% de reseñas": 23.6593,
+    "IC inf": -0.7119,
+    "IC sup": -0.6671,
+    "β": -0.6913
+   },
+   "cobro": {
+    "% de reseñas": 5.5764,
+    "IC inf": -0.3854,
+    "IC sup": -0.3446,
+    "β": -0.3661
+   },
+   "cocina_mesa": {
+    "% de reseñas": 15.1918,
+    "IC inf": -0.3867,
+    "IC sup": -0.3627,
+    "β": -0.3757
+   },
+   "llegada": {
+    "% de reseñas": 11.3517,
+    "IC inf": -0.0531,
+    "IC sup": 0.004,
+    "β": -0.0247
+   },
+   "local": {
+    "% de reseñas": 11.3988,
+    "IC inf": -0.0491,
+    "IC sup": -0.0245,
+    "β": -0.0369
+   },
+   "precio": {
+    "% de reseñas": 30.6821,
+    "IC inf": -0.3589,
+    "IC sup": -0.332,
+    "β": -0.3441
+   },
+   "sabor": {
+    "% de reseñas": 25.486,
+    "IC inf": -0.4798,
+    "IC sup": -0.4503,
+    "β": -0.4641
+   }
+  },
+  "London": {
+   "atencion": {
+    "% de reseñas": 26.2555,
+    "IC inf": -0.5523,
+    "IC sup": -0.526,
+    "β": -0.5385
+   },
+   "cobro": {
+    "% de reseñas": 6.7929,
+    "IC inf": -0.3865,
+    "IC sup": -0.3593,
+    "β": -0.3729
+   },
+   "cocina_mesa": {
+    "% de reseñas": 16.9416,
+    "IC inf": -0.4261,
+    "IC sup": -0.4097,
+    "β": -0.4186
+   },
+   "llegada": {
+    "% de reseñas": 11.8255,
+    "IC inf": -0.129,
+    "IC sup": -0.0987,
+    "β": -0.1129
+   },
+   "local": {
+    "% de reseñas": 14.5937,
+    "IC inf": -0.0841,
+    "IC sup": -0.0706,
+    "β": -0.0775
+   },
+   "precio": {
+    "% de reseñas": 28.5622,
+    "IC inf": -0.3474,
+    "IC sup": -0.3326,
+    "β": -0.3405
+   },
+   "sabor": {
+    "% de reseñas": 26.1465,
+    "IC inf": -0.4384,
+    "IC sup": -0.4184,
+    "β": -0.4283
+   }
+  },
+  "Madrid": {
+   "atencion": {
+    "% de reseñas": 22.0716,
+    "IC inf": -0.6911,
+    "IC sup": -0.6144,
+    "β": -0.6535
+   },
+   "cobro": {
+    "% de reseñas": 5.2041,
+    "IC inf": -0.3893,
+    "IC sup": -0.3246,
+    "β": -0.3551
+   },
+   "cocina_mesa": {
+    "% de reseñas": 14.0073,
+    "IC inf": -0.3638,
+    "IC sup": -0.3156,
+    "β": -0.3403
+   },
+   "llegada": {
+    "% de reseñas": 8.7987,
+    "IC inf": -0.0752,
+    "IC sup": -0.0151,
+    "β": -0.0465
+   },
+   "local": {
+    "% de reseñas": 12.5663,
+    "IC inf": -0.036,
+    "IC sup": 0.0033,
+    "β": -0.0172
+   },
+   "precio": {
+    "% de reseñas": 28.9428,
+    "IC inf": -0.3933,
+    "IC sup": -0.3379,
+    "β": -0.3639
+   },
+   "sabor": {
+    "% de reseñas": 23.4719,
+    "IC inf": -0.473,
+    "IC sup": -0.4239,
+    "β": -0.4449
+   }
+  },
+  "New_Delhi": {
+   "atencion": {
+    "% de reseñas": 24.5355,
+    "IC inf": -0.4253,
+    "IC sup": -0.3814,
+    "β": -0.4025
+   },
+   "cobro": {
+    "% de reseñas": 4.0663,
+    "IC inf": -0.3523,
+    "IC sup": -0.2809,
+    "β": -0.3181
+   },
+   "cocina_mesa": {
+    "% de reseñas": 15.4721,
+    "IC inf": -0.2674,
+    "IC sup": -0.2237,
+    "β": -0.2461
+   },
+   "llegada": {
+    "% de reseñas": 7.4248,
+    "IC inf": -0.0804,
+    "IC sup": -0.0051,
+    "β": -0.0423
+   },
+   "local": {
+    "% de reseñas": 14.2388,
+    "IC inf": -0.0587,
+    "IC sup": -0.0246,
+    "β": -0.0433
+   },
+   "precio": {
+    "% de reseñas": 29.5487,
+    "IC inf": -0.3151,
+    "IC sup": -0.2753,
+    "β": -0.2961
+   },
+   "sabor": {
+    "% de reseñas": 27.7418,
+    "IC inf": -0.2681,
+    "IC sup": -0.2254,
+    "β": -0.2471
+   }
+  },
+  "New_York": {
+   "atencion": {
+    "% de reseñas": 26.959,
+    "IC inf": -0.5155,
+    "IC sup": -0.4879,
+    "β": -0.5031
+   },
+   "cobro": {
+    "% de reseñas": 5.9211,
+    "IC inf": -0.3331,
+    "IC sup": -0.2951,
+    "β": -0.314
+   },
+   "cocina_mesa": {
+    "% de reseñas": 17.7324,
+    "IC inf": -0.342,
+    "IC sup": -0.3198,
+    "β": -0.3323
+   },
+   "llegada": {
+    "% de reseñas": 13.9674,
+    "IC inf": -0.0426,
+    "IC sup": -0.0105,
+    "β": -0.0267
+   },
+   "local": {
+    "% de reseñas": 19.1031,
+    "IC inf": -0.0951,
+    "IC sup": -0.0724,
+    "β": -0.0856
+   },
+   "precio": {
+    "% de reseñas": 29.7137,
+    "IC inf": -0.3578,
+    "IC sup": -0.3401,
+    "β": -0.3489
+   },
+   "sabor": {
+    "% de reseñas": 29.3318,
+    "IC inf": -0.3732,
+    "IC sup": -0.3514,
+    "β": -0.3632
+   }
+  },
+  "Paris": {
+   "atencion": {
+    "% de reseñas": 27.8501,
+    "IC inf": -0.7058,
+    "IC sup": -0.674,
+    "β": -0.6886
+   },
+   "cobro": {
+    "% de reseñas": 5.7175,
+    "IC inf": -0.3859,
+    "IC sup": -0.3521,
+    "β": -0.3681
+   },
+   "cocina_mesa": {
+    "% de reseñas": 17.0176,
+    "IC inf": -0.3554,
+    "IC sup": -0.3325,
+    "β": -0.3442
+   },
+   "llegada": {
+    "% de reseñas": 10.6597,
+    "IC inf": -0.0989,
+    "IC sup": -0.0432,
+    "β": -0.0718
+   },
+   "local": {
+    "% de reseñas": 13.3858,
+    "IC inf": -0.0396,
+    "IC sup": -0.02,
+    "β": -0.029
+   },
+   "precio": {
+    "% de reseñas": 31.2293,
+    "IC inf": -0.3529,
+    "IC sup": -0.3339,
+    "β": -0.343
+   },
+   "sabor": {
+    "% de reseñas": 31.9361,
+    "IC inf": -0.3712,
+    "IC sup": -0.3481,
+    "β": -0.3587
+   }
+  }
+ },
+ "final": "LogReg",
+ "fuente_sensibilidad": "LogReg_borrado",
+ "p2": {
+  "LogReg (sensibilidad)": {
+   "Barcelona": {
+    "% 1-2★ con falla del ciclo": 84.2805,
+    "% 1-2★ con falla fuera del ciclo": 85.8869,
+    "atencion": 5.3848,
+    "cobro": 7.0582,
+    "cocina_mesa": 4.9444,
+    "llegada": 1.7251,
+    "local": 1.827,
+    "precio": 3.1748,
+    "sabor": 4.1467,
+    "tono negativo (control)": 2.2086
+   },
+   "London": {
+    "% 1-2★ con falla del ciclo": 87.6233,
+    "% 1-2★ con falla fuera del ciclo": 84.5394,
+    "atencion": 4.6199,
+    "cobro": 7.2649,
+    "cocina_mesa": 5.2719,
+    "llegada": 2.9438,
+    "local": 2.1912,
+    "precio": 3.2376,
+    "sabor": 4.0033,
+    "tono negativo (control)": 2.0465
+   },
+   "Madrid": {
+    "% 1-2★ con falla del ciclo": 82.8682,
+    "% 1-2★ con falla fuera del ciclo": 83.8343,
+    "atencion": 5.6294,
+    "cobro": 6.7738,
+    "cocina_mesa": 4.99,
+    "llegada": 2.2291,
+    "local": 1.7139,
+    "precio": 3.3189,
+    "sabor": 4.2963,
+    "tono negativo (control)": 2.4503
+   },
+   "New_Delhi": {
+    "% 1-2★ con falla del ciclo": 80.0961,
+    "% 1-2★ con falla fuera del ciclo": 82.7577,
+    "atencion": 4.1476,
+    "cobro": 7.0023,
+    "cocina_mesa": 3.904,
+    "llegada": 2.7209,
+    "local": 2.2338,
+    "precio": 3.1296,
+    "sabor": 3.1486,
+    "tono negativo (control)": 2.2103
+   },
+   "New_York": {
+    "% 1-2★ con falla del ciclo": 86.0395,
+    "% 1-2★ con falla fuera del ciclo": 85.9732,
+    "atencion": 4.2268,
+    "cobro": 5.8778,
+    "cocina_mesa": 4.1145,
+    "llegada": 2.0168,
+    "local": 1.7565,
+    "precio": 3.0141,
+    "sabor": 3.2269,
+    "tono negativo (control)": 1.8609
+   },
+   "Paris": {
+    "% 1-2★ con falla del ciclo": 85.6182,
+    "% 1-2★ con falla fuera del ciclo": 84.1216,
+    "atencion": 4.5451,
+    "cobro": 6.1989,
+    "cocina_mesa": 4.1488,
+    "llegada": 2.0587,
+    "local": 1.8902,
+    "precio": 2.9324,
+    "sabor": 2.863,
+    "tono negativo (control)": 1.9637
+   }
+  },
+  "regex v1 (titular)": {
+   "Barcelona": {
+    "% 1-2★ con falla del ciclo": 27.365,
+    "% 1-2★ con falla fuera del ciclo": 30.5225,
+    "atencion": 33.7658,
+    "cobro": 29.8077,
+    "cocina_mesa": 10.3414,
+    "llegada": 1.3026,
+    "local": 4.6492,
+    "precio": 5.9981,
+    "sabor": 22.5551,
+    "tono negativo (control)": 2.2086
+   },
+   "London": {
+    "% 1-2★ con falla del ciclo": 32.9672,
+    "% 1-2★ con falla fuera del ciclo": 29.2018,
+    "atencion": 26.4108,
+    "cobro": 11.8651,
+    "cocina_mesa": 12.5374,
+    "llegada": 2.4447,
+    "local": 3.6919,
+    "precio": 4.1285,
+    "sabor": 20.3548,
+    "tono negativo (control)": 2.0465
+   },
+   "Madrid": {
+    "% 1-2★ con falla del ciclo": 26.6996,
+    "% 1-2★ con falla fuera del ciclo": 29.0325,
+    "atencion": 37.6568,
+    "cobro": 20.952,
+    "cocina_mesa": 11.7442,
+    "llegada": 2.3166,
+    "local": 3.5596,
+    "precio": 5.4836,
+    "sabor": 21.9718,
+    "tono negativo (control)": 2.4503
+   },
+   "New_Delhi": {
+    "% 1-2★ con falla del ciclo": 21.2283,
+    "% 1-2★ con falla fuera del ciclo": 23.3316,
+    "atencion": 25.958,
+    "cobro": 25.0307,
+    "cocina_mesa": 8.6763,
+    "llegada": 2.4883,
+    "local": 6.5805,
+    "precio": 3.735,
+    "sabor": 16.2311,
+    "tono negativo (control)": 2.2103
+   },
+   "New_York": {
+    "% 1-2★ con falla del ciclo": 25.0986,
+    "% 1-2★ con falla fuera del ciclo": 31.4361,
+    "atencion": 24.1397,
+    "cobro": 19.0057,
+    "cocina_mesa": 11.089,
+    "llegada": 1.8972,
+    "local": 2.5067,
+    "precio": 4.0311,
+    "sabor": 18.0177,
+    "tono negativo (control)": 1.8609
+   },
+   "Paris": {
+    "% 1-2★ con falla del ciclo": 29.2019,
+    "% 1-2★ con falla fuera del ciclo": 27.7109,
+    "atencion": 25.8596,
+    "cobro": 19.196,
+    "cocina_mesa": 7.5765,
+    "llegada": 1.9855,
+    "local": 4.6548,
+    "precio": 3.905,
+    "sabor": 20.9699,
+    "tono negativo (control)": 1.9637
+   }
+  }
+ },
+ "p2_sobre_tono": {
+  "LogReg (sensibilidad)": {
+   "Barcelona": {
+    "atencion": 2.4382,
+    "cobro": 3.1959,
+    "cocina_mesa": 2.2387,
+    "llegada": 0.7811,
+    "local": 0.8273,
+    "precio": 1.4375,
+    "sabor": 1.8776
+   },
+   "London": {
+    "atencion": 2.2575,
+    "cobro": 3.5499,
+    "cocina_mesa": 2.5761,
+    "llegada": 1.4384,
+    "local": 1.0707,
+    "precio": 1.582,
+    "sabor": 1.9562
+   },
+   "Madrid": {
+    "atencion": 2.2974,
+    "cobro": 2.7645,
+    "cocina_mesa": 2.0365,
+    "llegada": 0.9097,
+    "local": 0.6995,
+    "precio": 1.3545,
+    "sabor": 1.7533
+   },
+   "New_Delhi": {
+    "atencion": 1.8765,
+    "cobro": 3.168,
+    "cocina_mesa": 1.7663,
+    "llegada": 1.231,
+    "local": 1.0106,
+    "precio": 1.4159,
+    "sabor": 1.4245
+   },
+   "New_York": {
+    "atencion": 2.2714,
+    "cobro": 3.1586,
+    "cocina_mesa": 2.211,
+    "llegada": 1.0838,
+    "local": 0.9439,
+    "precio": 1.6197,
+    "sabor": 1.7341
+   },
+   "Paris": {
+    "atencion": 2.3146,
+    "cobro": 3.1567,
+    "cocina_mesa": 2.1128,
+    "llegada": 1.0484,
+    "local": 0.9626,
+    "precio": 1.4933,
+    "sabor": 1.458
+   }
+  },
+  "regex v1 (titular)": {
+   "Barcelona": {
+    "atencion": 15.2886,
+    "cobro": 13.4965,
+    "cocina_mesa": 4.6824,
+    "llegada": 0.5898,
+    "local": 2.1051,
+    "precio": 2.7158,
+    "sabor": 10.2126
+   },
+   "London": {
+    "atencion": 12.9053,
+    "cobro": 5.7977,
+    "cocina_mesa": 6.1263,
+    "llegada": 1.1946,
+    "local": 1.804,
+    "precio": 2.0174,
+    "sabor": 9.9461
+   },
+   "Madrid": {
+    "atencion": 15.3682,
+    "cobro": 8.5507,
+    "cocina_mesa": 4.7929,
+    "llegada": 0.9454,
+    "local": 1.4527,
+    "precio": 2.2379,
+    "sabor": 8.9669
+   },
+   "New_Delhi": {
+    "atencion": 11.744,
+    "cobro": 11.3245,
+    "cocina_mesa": 3.9253,
+    "llegada": 1.1258,
+    "local": 2.9772,
+    "precio": 1.6898,
+    "sabor": 7.3433
+   },
+   "New_York": {
+    "atencion": 12.972,
+    "cobro": 10.2131,
+    "cocina_mesa": 5.9589,
+    "llegada": 1.0195,
+    "local": 1.347,
+    "precio": 2.1662,
+    "sabor": 9.6822
+   },
+   "Paris": {
+    "atencion": 13.1688,
+    "cobro": 9.7754,
+    "cocina_mesa": 3.8583,
+    "llegada": 1.0111,
+    "local": 2.3704,
+    "precio": 1.9886,
+    "sabor": 10.6787
+   }
+  }
+ },
+ "p3": {
+  "LogReg (sensibilidad)": {
+   "Barcelona": {
+    "atencion": -0.8248,
+    "cobro": -0.6521,
+    "cocina_mesa": -0.8028,
+    "llegada": -0.1646,
+    "local": -0.3102,
+    "pares": 914,
+    "precio": -0.7452,
+    "sabor": -0.7284
+   },
+   "London": {
+    "atencion": -0.6184,
+    "cobro": -0.4451,
+    "cocina_mesa": -0.7157,
+    "llegada": -0.477,
+    "local": -0.4682,
+    "pares": 1679,
+    "precio": -0.4732,
+    "sabor": -0.4242
+   },
+   "Madrid": {
+    "atencion": -0.7605,
+    "cobro": -0.5851,
+    "cocina_mesa": -0.7552,
+    "llegada": -0.2141,
+    "local": -0.4137,
+    "pares": 366,
+    "precio": -0.7056,
+    "sabor": -0.6095
+   },
+   "New_Delhi": {
+    "atencion": -0.6159,
+    "cobro": -0.6499,
+    "cocina_mesa": -0.6559,
+    "llegada": -0.5413,
+    "local": -0.5762,
+    "pares": 310,
+    "precio": -0.7451,
+    "sabor": -0.5225
+   },
+   "New_York": {
+    "atencion": -0.4191,
+    "cobro": -0.2772,
+    "cocina_mesa": -0.5487,
+    "llegada": -0.0842,
+    "local": -0.123,
+    "pares": 1086,
+    "precio": -0.3179,
+    "sabor": -0.1769
+   },
+   "Paris": {
+    "atencion": -0.7691,
+    "cobro": -0.5444,
+    "cocina_mesa": -0.7212,
+    "llegada": -0.1108,
+    "local": -0.3706,
+    "pares": 1191,
+    "precio": -0.6631,
+    "sabor": -0.499
+   }
+  },
+  "regex v1 (titular)": {
+   "Barcelona": {
+    "atencion": -0.7523,
+    "cobro": -0.4935,
+    "cocina_mesa": -0.6131,
+    "llegada": -0.1111,
+    "local": -0.361,
+    "pares": 914,
+    "precio": -0.671,
+    "sabor": -0.6403
+   },
+   "London": {
+    "atencion": -0.592,
+    "cobro": -0.4002,
+    "cocina_mesa": -0.5363,
+    "llegada": -0.3375,
+    "local": -0.4139,
+    "pares": 1679,
+    "precio": -0.3709,
+    "sabor": -0.3448
+   },
+   "Madrid": {
+    "atencion": -0.7141,
+    "cobro": -0.3686,
+    "cocina_mesa": -0.6063,
+    "llegada": -0.1388,
+    "local": -0.3401,
+    "pares": 366,
+    "precio": -0.6052,
+    "sabor": -0.4983
+   },
+   "New_Delhi": {
+    "atencion": -0.5454,
+    "cobro": -0.442,
+    "cocina_mesa": -0.5678,
+    "llegada": -0.331,
+    "local": -0.4971,
+    "pares": 310,
+    "precio": -0.4851,
+    "sabor": -0.5031
+   },
+   "New_York": {
+    "atencion": -0.394,
+    "cobro": -0.2236,
+    "cocina_mesa": -0.4836,
+    "llegada": -0.064,
+    "local": -0.0912,
+    "pares": 1086,
+    "precio": -0.2404,
+    "sabor": -0.187
+   },
+   "Paris": {
+    "atencion": -0.752,
+    "cobro": -0.33,
+    "cocina_mesa": -0.5396,
+    "llegada": -0.1369,
+    "local": -0.3608,
+    "pares": 1191,
+    "precio": -0.5679,
+    "sabor": -0.3744
+   }
+  }
+ },
+ "p3_rho_tono_madrid": -0.9216,
+ "p4": {
+  "LogReg (sensibilidad)": {
+   "Barcelona": {
+    "% reseñas que mencionan lleno": 9.5937,
+    "atencion oración": 0.5918,
+    "atencion reseña": 1.2449,
+    "cobro oración": 0.1428,
+    "cobro reseña": 1.2292,
+    "cocina_mesa oración": 1.7002,
+    "cocina_mesa reseña": 1.55,
+    "llegada oración": 5.8387,
+    "llegada reseña": 3.1218
+   },
+   "London": {
+    "% reseñas que mencionan lleno": 14.2609,
+    "atencion oración": 0.5136,
+    "atencion reseña": 1.3002,
+    "cobro oración": 0.1386,
+    "cobro reseña": 1.4698,
+    "cocina_mesa oración": 1.7097,
+    "cocina_mesa reseña": 1.6426,
+    "llegada oración": 5.3976,
+    "llegada reseña": 2.8649
+   },
+   "Madrid": {
+    "% reseñas que mencionan lleno": 10.738,
+    "atencion oración": 0.4986,
+    "atencion reseña": 1.1457,
+    "cobro oración": 0.1319,
+    "cobro reseña": 1.213,
+    "cocina_mesa oración": 1.3821,
+    "cocina_mesa reseña": 1.4237,
+    "llegada oración": 5.7689,
+    "llegada reseña": 2.9928
+   },
+   "New_Delhi": {
+    "% reseñas que mencionan lleno": 6.8129,
+    "atencion oración": 0.5863,
+    "atencion reseña": 1.4421,
+    "cobro oración": 0.286,
+    "cobro reseña": 1.6699,
+    "cocina_mesa oración": 1.7841,
+    "cocina_mesa reseña": 1.8262,
+    "llegada oración": 6.7586,
+    "llegada reseña": 3.561
+   },
+   "New_York": {
+    "% reseñas que mencionan lleno": 14.4084,
+    "atencion oración": 0.4571,
+    "atencion reseña": 1.2525,
+    "cobro oración": 0.0956,
+    "cobro reseña": 1.2793,
+    "cocina_mesa oración": 1.4444,
+    "cocina_mesa reseña": 1.4729,
+    "llegada oración": 5.2027,
+    "llegada reseña": 2.6319
+   },
+   "Paris": {
+    "% reseñas que mencionan lleno": 10.4283,
+    "atencion oración": 0.5418,
+    "atencion reseña": 1.1958,
+    "cobro oración": 0.12,
+    "cobro reseña": 1.2508,
+    "cocina_mesa oración": 1.7623,
+    "cocina_mesa reseña": 1.5117,
+    "llegada oración": 4.8801,
+    "llegada reseña": 2.6048
+   }
+  },
+  "regex v1 (titular)": {
+   "Barcelona": {
+    "% reseñas que mencionan lleno": 9.5937,
+    "atencion oración": 1.1074,
+    "atencion reseña": 1.3745,
+    "cobro oración": 0.3016,
+    "cobro reseña": 1.2117,
+    "cocina_mesa oración": 2.998,
+    "cocina_mesa reseña": 1.7911,
+    "llegada oración": 6.1401,
+    "llegada reseña": 3.4377
+   },
+   "London": {
+    "% reseñas que mencionan lleno": 14.2609,
+    "atencion oración": 1.0208,
+    "atencion reseña": 1.548,
+    "cobro oración": 0.3137,
+    "cobro reseña": 1.6383,
+    "cocina_mesa oración": 2.7137,
+    "cocina_mesa reseña": 1.9116,
+    "llegada oración": 4.9249,
+    "llegada reseña": 2.8541
+   },
+   "Madrid": {
+    "% reseñas que mencionan lleno": 10.738,
+    "atencion oración": 0.8656,
+    "atencion reseña": 1.1939,
+    "cobro oración": 0.1408,
+    "cobro reseña": 1.0833,
+    "cocina_mesa oración": 2.1604,
+    "cocina_mesa reseña": 1.6389,
+    "llegada oración": 6.446,
+    "llegada reseña": 3.5601
+   },
+   "New_Delhi": {
+    "% reseñas que mencionan lleno": 6.8129,
+    "atencion oración": 1.6872,
+    "atencion reseña": 1.9666,
+    "cobro oración": 0.4139,
+    "cobro reseña": 1.8197,
+    "cocina_mesa oración": 3.0021,
+    "cocina_mesa reseña": 2.0534,
+    "llegada oración": 9.596,
+    "llegada reseña": 4.232
+   },
+   "New_York": {
+    "% reseñas que mencionan lleno": 14.4084,
+    "atencion oración": 1.0136,
+    "atencion reseña": 1.3365,
+    "cobro oración": 0.1975,
+    "cobro reseña": 1.1834,
+    "cocina_mesa oración": 2.534,
+    "cocina_mesa reseña": 1.7232,
+    "llegada oración": 5.5547,
+    "llegada reseña": 2.6891
+   },
+   "Paris": {
+    "% reseñas que mencionan lleno": 10.4283,
+    "atencion oración": 0.9617,
+    "atencion reseña": 1.211,
+    "cobro oración": 0.3033,
+    "cobro reseña": 1.1266,
+    "cocina_mesa oración": 2.8314,
+    "cocina_mesa reseña": 1.8924,
+    "llegada oración": 4.2789,
+    "llegada reseña": 2.7469
+   }
+  }
+ },
+ "r2": {
+  "Partición por restaurante (avance)": {
+   "MAE": 0.4378,
+   "MAE media": 0.8396,
+   "R²": 0.6807,
+   "reseñas test": 40335.0
+  },
+  "Por restaurante y sin autores de train": {
+   "MAE": 0.42,
+   "MAE media": 0.8835,
+   "R²": 0.7082,
+   "reseñas test": 20417.0
+  }
+ }
+}

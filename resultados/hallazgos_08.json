@@ -1,0 +1,327 @@
+{
+ "avisos": [],
+ "barcelona": {
+  "accion": "Atacar primero: 2. Atención en sala — validada (6/6 en el gold)",
+  "citas": [
+   "We visited here for a light snack and a couple of drinks and were told by a very rude waiter we could not get a large mixed chicken salad between us and we must have a meal each.",
+   "They were rude and very nonchalant in their attitude.",
+   "Also, whilst taking the ret of the orders he was equally as rude."
+  ],
+  "ciudad": "Barcelona",
+  "en_juego_ciclo": -0.3056,
+  "en_juego_fuera": -0.1595,
+  "mediana_pares": 4.3107,
+  "n_pares": 914,
+  "peor_etapa": "atencion",
+  "prioridad": "atencion",
+  "promedio": 2.7839,
+  "resenas": 361,
+  "restaurante": "El_Cafe_D_en_Victor",
+  "rotulo": "quejas explícitas (piso de la tasa real)",
+  "tabla": {
+   "atencion": {
+    "% LogReg (señal amplia, no validada)": 55.9557,
+    "% estimado": 16.2863,
+    "% observado": 18.0055,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.2551,
+    "nota": "",
+    "percentil": 99.8906
+   },
+   "cobro": {
+    "% LogReg (señal amplia, no validada)": 20.7756,
+    "% estimado": 1.6781,
+    "% observado": 1.9391,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0176,
+    "nota": "",
+    "percentil": 94.0919
+   },
+   "cocina_mesa": {
+    "% LogReg (señal amplia, no validada)": 27.4238,
+    "% estimado": 4.3916,
+    "% observado": 4.7091,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0324,
+    "nota": "",
+    "percentil": 83.3698
+   },
+   "llegada": {
+    "% LogReg (señal amplia, no validada)": 8.5873,
+    "% estimado": 0.5903,
+    "% observado": 0.554,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0005,
+    "nota": "no validada: 6 positivos en el gold",
+    "percentil": 50.1094
+   },
+   "local": {
+    "% LogReg (señal amplia, no validada)": 11.3573,
+    "% estimado": 1.6266,
+    "% observado": 1.662,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0083,
+    "nota": "",
+    "percentil": 67.0678
+   },
+   "precio": {
+    "% LogReg (señal amplia, no validada)": 51.2465,
+    "% estimado": 14.7019,
+    "% observado": 15.2355,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0903,
+    "nota": "",
+    "percentil": 94.0919
+   },
+   "sabor": {
+    "% LogReg (señal amplia, no validada)": 42.6593,
+    "% estimado": 5.0355,
+    "% observado": 5.5402,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0609,
+    "nota": "",
+    "percentil": 92.2319
+   }
+  }
+ },
+ "botin": {
+  "accion": "Atacar primero: 4. Cobro — no validada",
+  "citas": [
+   "in madrid there are so many food options, im sure you can find better food at a similar price, 2 dishes and a bottle of wine 69 euros, i would suspect you could find better food at less cost as well, we went for the experience, service was ok, but not once where we asked if our food was ok, not sure if they charge for the bread they place on the table, but have fallen foul of this trick a few times so did not touch it, we wernt charged for it either.",
+   "They will also (like most places in Spain) try to force bread on you which you WILL be charged for if you do not decline it.",
+   "However, what really annoyed us was that we were automatically charged for 2 buns of bread (3euros each, like seriously??!) although we didn't even order them and we only ate one of them."
+  ],
+  "ciudad": "Madrid",
+  "en_juego_ciclo": -0.0596,
+  "en_juego_fuera": -0.1541,
+  "mediana_pares": 4.2751,
+  "n_pares": 366,
+  "peor_etapa": "cobro",
+  "prioridad": "cobro",
+  "promedio": 3.9599,
+  "resenas": 3642,
+  "restaurante": "Restaurante_Botin",
+  "rotulo": "quejas explícitas (piso de la tasa real)",
+  "tabla": {
+   "atencion": {
+    "% LogReg (señal amplia, no validada)": 30.5052,
+    "% estimado": 2.3133,
+    "% observado": 2.3064,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0365,
+    "nota": "",
+    "percentil": 51.9126
+   },
+   "cobro": {
+    "% LogReg (señal amplia, no validada)": 7.3861,
+    "% estimado": 1.0762,
+    "% observado": 1.0983,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0105,
+    "nota": "",
+    "percentil": 89.3443
+   },
+   "cocina_mesa": {
+    "% LogReg (señal amplia, no validada)": 14.7446,
+    "% estimado": 1.3912,
+    "% observado": 1.3729,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0104,
+    "nota": "",
+    "percentil": 29.5082
+   },
+   "llegada": {
+    "% LogReg (señal amplia, no validada)": 13.9758,
+    "% estimado": 1.0962,
+    "% observado": 1.0983,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0022,
+    "nota": "no validada: 6 positivos en el gold",
+    "percentil": 77.3224
+   },
+   "local": {
+    "% LogReg (señal amplia, no validada)": 17.5453,
+    "% estimado": 2.2382,
+    "% observado": 2.2515,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0088,
+    "nota": "",
+    "percentil": 77.0492
+   },
+   "precio": {
+    "% LogReg (señal amplia, no validada)": 46.0187,
+    "% estimado": 14.016,
+    "% observado": 14.0857,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0862,
+    "nota": "",
+    "percentil": 95.3552
+   },
+   "sabor": {
+    "% LogReg (señal amplia, no validada)": 34.0472,
+    "% estimado": 4.9876,
+    "% observado": 5.0522,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.059,
+    "nota": "",
+    "percentil": 94.2623
+   }
+  }
+ },
+ "corregido": false,
+ "ctapas": {
+  "accion": "Atacar primero: 2. Atención en sala — validada (6/6 en el gold)",
+  "citas": [
+   "Forgot some of our orders and did not even apologize.....",
+   "You got that right, forgotten.",
+   "We wondered if he'd forgotten about us, but finally he showed up and asked for our orders."
+  ],
+  "ciudad": "Madrid",
+  "en_juego_ciclo": -0.24,
+  "en_juego_fuera": -0.1386,
+  "mediana_pares": 4.2751,
+  "n_pares": 366,
+  "peor_etapa": "atencion",
+  "prioridad": "atencion",
+  "promedio": 2.6588,
+  "resenas": 337,
+  "restaurante": "C_Tapas",
+  "rotulo": "quejas explícitas (piso de la tasa real)",
+  "tabla": {
+   "atencion": {
+    "% LogReg (señal amplia, no validada)": 47.181,
+    "% estimado": 9.6296,
+    "% observado": 10.6825,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.1517,
+    "nota": "",
+    "percentil": 98.9071
+   },
+   "cobro": {
+    "% LogReg (señal amplia, no validada)": 15.727,
+    "% estimado": 1.1866,
+    "% observado": 1.4837,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0116,
+    "nota": "",
+    "percentil": 92.0765
+   },
+   "cocina_mesa": {
+    "% LogReg (señal amplia, no validada)": 33.8279,
+    "% estimado": 10.0047,
+    "% observado": 11.276,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0748,
+    "nota": "",
+    "percentil": 99.4536
+   },
+   "llegada": {
+    "% LogReg (señal amplia, no validada)": 10.9792,
+    "% estimado": 0.8942,
+    "% observado": 0.8902,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0018,
+    "nota": "no validada: 6 positivos en el gold",
+    "percentil": 69.1257
+   },
+   "local": {
+    "% LogReg (señal amplia, no validada)": 12.1662,
+    "% estimado": 2.232,
+    "% observado": 2.3739,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0088,
+    "nota": "",
+    "percentil": 76.5027
+   },
+   "precio": {
+    "% LogReg (señal amplia, no validada)": 49.2582,
+    "% estimado": 15.1605,
+    "% observado": 16.0237,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0933,
+    "nota": "",
+    "percentil": 96.7213
+   },
+   "sabor": {
+    "% LogReg (señal amplia, no validada)": 35.3116,
+    "% estimado": 3.0834,
+    "% observado": 3.2641,
+    "corregida (aprox.)": false,
+    "estrellas en juego": -0.0365,
+    "nota": "",
+    "percentil": 77.8689
+   }
+  }
+ },
+ "discrimina": true,
+ "distribucion_prioridad": {
+  "atencion": {
+   "Barcelona": 23.6,
+   "London": 14.0,
+   "Madrid": 22.7,
+   "New_Delhi": 9.0,
+   "New_York": 9.8,
+   "Paris": 24.1
+  },
+  "cobro": {
+   "Barcelona": 2.8,
+   "London": 12.9,
+   "Madrid": 3.0,
+   "New_Delhi": 4.2,
+   "New_York": 1.9,
+   "Paris": 0.5
+  },
+  "cocina_mesa": {
+   "Barcelona": 8.4,
+   "London": 15.1,
+   "Madrid": 10.1,
+   "New_Delhi": 14.8,
+   "New_York": 15.3,
+   "Paris": 7.8
+  },
+  "fuera: local": {
+   "Barcelona": 5.6,
+   "London": 5.1,
+   "Madrid": 6.8,
+   "New_Delhi": 8.7,
+   "New_York": 13.4,
+   "Paris": 7.6
+  },
+  "fuera: precio": {
+   "Barcelona": 6.6,
+   "London": 7.3,
+   "Madrid": 9.6,
+   "New_Delhi": 7.7,
+   "New_York": 9.3,
+   "Paris": 7.7
+  },
+  "fuera: sabor": {
+   "Barcelona": 6.0,
+   "London": 7.1,
+   "Madrid": 8.2,
+   "New_Delhi": 9.4,
+   "New_York": 7.6,
+   "Paris": 10.0
+  },
+  "llegada": {
+   "Barcelona": 9.2,
+   "London": 8.1,
+   "Madrid": 7.9,
+   "New_Delhi": 7.4,
+   "New_York": 11.7,
+   "Paris": 7.1
+  },
+  "sin punto débil diferencial": {
+   "Barcelona": 37.7,
+   "London": 30.3,
+   "Madrid": 31.7,
+   "New_Delhi": 38.7,
+   "New_York": 31.0,
+   "Paris": 35.3
+  }
+ },
+ "fuente": "regex_v1",
+ "sobre_corte_rg": {
+  "precio": 0.31
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "C": 3,
+ "errores_logreg": 83,
+ "f1_logreg": 0.8341,
+ "f1_nb": 0.7805,
+ "mixtas_pct": 6.5132,
+ "multiaspecto_pct": 37.2123,
+ "pct_con_no": 14.966,
+ "pct_neg_con_no": 66.8831,
+ "pct_neg_sin_no": 20.2857,
+ "semillas_f1": {
+  "Ambiente": {
+   "+ fastText SUC": 0.6,
+   "+ fastText, solo palabras del corpus": 0.58,
+   "Solo semillas": 0.679
+  },
+  "Cocina": {
+   "+ fastText SUC": 0.663,
+   "+ fastText, solo palabras del corpus": 0.699,
+   "Solo semillas": 0.637
+  },
+  "Precio": {
+   "+ fastText SUC": 0.802,
+   "+ fastText, solo palabras del corpus": 0.803,
+   "Solo semillas": 0.809
+  },
+  "Promedio": {
+   "+ fastText SUC": 0.731,
+   "+ fastText, solo palabras del corpus": 0.735,
+   "Solo semillas": 0.745
+  },
+  "Servicio": {
+   "+ fastText SUC": 0.859,
+   "+ fastText, solo palabras del corpus": 0.858,
+   "Solo semillas": 0.854
+  }
+ },
+ "test_n": 611,
+ "variantes_stopwords": {
+  "Sin quitar stopwords": {
+   "BoW + LogReg": 0.813,
+   "BoW + NB": 0.827,
+   "TF-IDF + LogReg": 0.827,
+   "TF-IDF + NB": 0.746
+  },
+  "Stopwords completas de NLTK": {
+   "BoW + LogReg": 0.791,
+   "BoW + NB": 0.789,
+   "TF-IDF + LogReg": 0.81,
+   "TF-IDF + NB": 0.729
+  },
+  "Stopwords sin negadores (pipeline final)": {
+   "BoW + LogReg": 0.819,
+   "BoW + NB": 0.828,
+   "TF-IDF + LogReg": 0.837,
+   "TF-IDF + NB": 0.78
+  }
+ }
+}

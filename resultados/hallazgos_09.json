@@ -1,0 +1,257 @@
+{
+ "apuntar": {
+  "LogReg": {
+   "Barcelona": {
+    "coincidencia": 0.4956,
+    "permutación media": 0.1601,
+    "permutación p95": 0.1906,
+    "restaurantes con prioridad del ciclo (antes)": 341,
+    "siempre atención": 0.3783
+   },
+   "London": {
+    "coincidencia": 0.3925,
+    "permutación media": 0.1324,
+    "permutación p95": 0.1505,
+    "restaurantes con prioridad del ciclo (antes)": 744,
+    "siempre atención": 0.3306
+   },
+   "Madrid": {
+    "coincidencia": 0.4532,
+    "permutación media": 0.1514,
+    "permutación p95": 0.1942,
+    "restaurantes con prioridad del ciclo (antes)": 139,
+    "siempre atención": 0.3453
+   },
+   "New_Delhi": {
+    "coincidencia": 0.3069,
+    "permutación media": 0.1059,
+    "permutación p95": 0.1584,
+    "restaurantes con prioridad del ciclo (antes)": 101,
+    "siempre atención": 0.2079
+   },
+   "New_York": {
+    "coincidencia": 0.3546,
+    "permutación media": 0.0996,
+    "permutación p95": 0.1189,
+    "restaurantes con prioridad del ciclo (antes)": 471,
+    "siempre atención": 0.2229
+   },
+   "Paris": {
+    "coincidencia": 0.4629,
+    "permutación media": 0.1536,
+    "permutación p95": 0.1816,
+    "restaurantes con prioridad del ciclo (antes)": 391,
+    "siempre atención": 0.3913
+   }
+  },
+  "regex v1": {
+   "Barcelona": {
+    "coincidencia": 0.3072,
+    "permutación media": 0.0875,
+    "permutación p95": 0.1126,
+    "restaurantes con prioridad del ciclo (antes)": 293,
+    "siempre atención": 0.256
+   },
+   "London": {
+    "coincidencia": 0.2869,
+    "permutación media": 0.0826,
+    "permutación p95": 0.098,
+    "restaurantes con prioridad del ciclo (antes)": 704,
+    "siempre atención": 0.142
+   },
+   "Madrid": {
+    "coincidencia": 0.271,
+    "permutación media": 0.0639,
+    "permutación p95": 0.1028,
+    "restaurantes con prioridad del ciclo (antes)": 107,
+    "siempre atención": 0.2056
+   },
+   "New_Delhi": {
+    "coincidencia": 0.2031,
+    "permutación media": 0.0459,
+    "permutación p95": 0.0938,
+    "restaurantes con prioridad del ciclo (antes)": 64,
+    "siempre atención": 0.0625
+   },
+   "New_York": {
+    "coincidencia": 0.2372,
+    "permutación media": 0.0542,
+    "permutación p95": 0.0751,
+    "restaurantes con prioridad del ciclo (antes)": 333,
+    "siempre atención": 0.0811
+   },
+   "Paris": {
+    "coincidencia": 0.3922,
+    "permutación media": 0.1087,
+    "permutación p95": 0.134,
+    "restaurantes con prioridad del ciclo (antes)": 306,
+    "siempre atención": 0.3497
+   }
+  }
+ },
+ "especificacion": "estrellas en juego del ciclo y de fuera del ciclo (2 variables), fijada en Madrid",
+ "frase_apuntar": "Para apuntar gana LogReg.",
+ "frase_predecir": "El scorecard describe, no predice.",
+ "gana_apuntar": "LogReg",
+ "gana_predecir": null,
+ "muestras": {
+  "Barcelona": 666,
+  "London": 1485,
+  "Madrid": 253,
+  "New_Delhi": 209,
+  "New_York": 879,
+  "Paris": 810
+ },
+ "r2": {
+  "LogReg": {
+   "Barcelona": {
+    "IC inf": -0.0094,
+    "IC sup": -0.0013,
+    "R2 base": 0.684,
+    "R2 con fuente": 0.6785,
+    "restaurantes": 666,
+    "ΔR2": -0.0055
+   },
+   "London": {
+    "IC inf": -0.0015,
+    "IC sup": 0.0193,
+    "R2 base": 0.2841,
+    "R2 con fuente": 0.2928,
+    "restaurantes": 1485,
+    "ΔR2": 0.0087
+   },
+   "Madrid": {
+    "IC inf": -0.0109,
+    "IC sup": 0.0111,
+    "R2 base": 0.6493,
+    "R2 con fuente": 0.6487,
+    "restaurantes": 253,
+    "ΔR2": -0.0006
+   },
+   "New_Delhi": {
+    "IC inf": -0.0181,
+    "IC sup": -0.0006,
+    "R2 base": 0.5336,
+    "R2 con fuente": 0.5245,
+    "restaurantes": 209,
+    "ΔR2": -0.0092
+   },
+   "New_York": {
+    "IC inf": -0.0078,
+    "IC sup": 0.0028,
+    "R2 base": 0.3198,
+    "R2 con fuente": 0.3178,
+    "restaurantes": 879,
+    "ΔR2": -0.0019
+   },
+   "Paris": {
+    "IC inf": -0.0022,
+    "IC sup": 0.0019,
+    "R2 base": 0.707,
+    "R2 con fuente": 0.7068,
+    "restaurantes": 810,
+    "ΔR2": -0.0002
+   }
+  },
+  "Ridge TF-IDF": {
+   "Barcelona": {
+    "IC inf": -0.0055,
+    "IC sup": 0.0007,
+    "R2 base": 0.684,
+    "R2 con fuente": 0.6816,
+    "restaurantes": 666,
+    "ΔR2": -0.0024
+   },
+   "London": {
+    "IC inf": -0.0015,
+    "IC sup": 0.0121,
+    "R2 base": 0.2841,
+    "R2 con fuente": 0.2896,
+    "restaurantes": 1485,
+    "ΔR2": 0.0054
+   },
+   "Madrid": {
+    "IC inf": -0.0029,
+    "IC sup": 0.0024,
+    "R2 base": 0.6493,
+    "R2 con fuente": 0.6491,
+    "restaurantes": 253,
+    "ΔR2": -0.0002
+   },
+   "New_Delhi": {
+    "IC inf": -0.0138,
+    "IC sup": 0.028,
+    "R2 base": 0.5336,
+    "R2 con fuente": 0.5403,
+    "restaurantes": 209,
+    "ΔR2": 0.0067
+   },
+   "New_York": {
+    "IC inf": -0.0086,
+    "IC sup": 0.0086,
+    "R2 base": 0.3198,
+    "R2 con fuente": 0.3199,
+    "restaurantes": 879,
+    "ΔR2": 0.0001
+   },
+   "Paris": {
+    "IC inf": -0.0017,
+    "IC sup": 0.002,
+    "R2 base": 0.707,
+    "R2 con fuente": 0.7072,
+    "restaurantes": 810,
+    "ΔR2": 0.0002
+   }
+  },
+  "regex v1": {
+   "Barcelona": {
+    "IC inf": -0.0096,
+    "IC sup": 0.0064,
+    "R2 base": 0.684,
+    "R2 con fuente": 0.6824,
+    "restaurantes": 666,
+    "ΔR2": -0.0016
+   },
+   "London": {
+    "IC inf": -0.0091,
+    "IC sup": 0.002,
+    "R2 base": 0.2841,
+    "R2 con fuente": 0.2807,
+    "restaurantes": 1485,
+    "ΔR2": -0.0035
+   },
+   "Madrid": {
+    "IC inf": -0.0125,
+    "IC sup": 0.0117,
+    "R2 base": 0.6493,
+    "R2 con fuente": 0.6488,
+    "restaurantes": 253,
+    "ΔR2": -0.0006
+   },
+   "New_Delhi": {
+    "IC inf": -0.015,
+    "IC sup": 0.0195,
+    "R2 base": 0.5336,
+    "R2 con fuente": 0.5351,
+    "restaurantes": 209,
+    "ΔR2": 0.0014
+   },
+   "New_York": {
+    "IC inf": -0.0097,
+    "IC sup": 0.0104,
+    "R2 base": 0.3198,
+    "R2 con fuente": 0.3206,
+    "restaurantes": 879,
+    "ΔR2": 0.0008
+   },
+   "Paris": {
+    "IC inf": -0.0031,
+    "IC sup": 0.0017,
+    "R2 base": 0.707,
+    "R2 con fuente": 0.7063,
+    "restaurantes": 810,
+    "ΔR2": -0.0007
+   }
+  }
+ }
+}

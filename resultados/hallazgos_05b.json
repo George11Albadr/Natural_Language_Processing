@@ -1,0 +1,158 @@
+{
+ "C": 10.0,
+ "aviso": "post-hoc; calibrado solo en madrid_train (1-2★ sin léxico); no evaluado en el gold",
+ "calibracion": {
+  "atencion": {
+   "F1 en ese umbral": 0.5342,
+   "F1@0.5": 0.5119,
+   "P@0.5": 0.4433,
+   "R@0.5": 0.6056,
+   "positivos": 71,
+   "recall en ese umbral": 0.4366,
+   "regla post-hoc": "precisión ≥ 0.80",
+   "umbral F1 máx": 0.65,
+   "umbral post-hoc": 0.95,
+   "umbral precisión ≥ 0.6": 0.8
+  },
+  "cobro": {
+   "F1 en ese umbral": 0.3182,
+   "F1@0.5": 0.2105,
+   "P@0.5": 0.2222,
+   "R@0.5": 0.2,
+   "positivos": 10,
+   "recall en ese umbral": null,
+   "regla post-hoc": "máximo F1 (ninguno llega a 0.80)",
+   "umbral F1 máx": 0.15,
+   "umbral post-hoc": 0.15,
+   "umbral precisión ≥ 0.6": null
+  },
+  "cocina_mesa": {
+   "F1 en ese umbral": 0.3333,
+   "F1@0.5": 0.2609,
+   "P@0.5": 0.2222,
+   "R@0.5": 0.3158,
+   "positivos": 19,
+   "recall en ese umbral": 0.1579,
+   "regla post-hoc": "máximo F1 (ninguno llega a 0.80)",
+   "umbral F1 máx": 0.7,
+   "umbral post-hoc": 0.7,
+   "umbral precisión ≥ 0.6": 0.9
+  },
+  "llegada": {
+   "F1 en ese umbral": 0.2353,
+   "F1@0.5": 0.1667,
+   "P@0.5": 0.1667,
+   "R@0.5": 0.1667,
+   "positivos": 6,
+   "recall en ese umbral": null,
+   "regla post-hoc": "máximo F1 (ninguno llega a 0.80)",
+   "umbral F1 máx": 0.3,
+   "umbral post-hoc": 0.3,
+   "umbral precisión ≥ 0.6": null
+  },
+  "local": {
+   "F1 en ese umbral": 0.2857,
+   "F1@0.5": 0.1333,
+   "P@0.5": 0.1111,
+   "R@0.5": 0.1667,
+   "positivos": 6,
+   "recall en ese umbral": 0.1667,
+   "regla post-hoc": "precisión ≥ 0.80",
+   "umbral F1 máx": 0.8,
+   "umbral post-hoc": 0.8,
+   "umbral precisión ≥ 0.6": 0.8
+  },
+  "precio": {
+   "F1 en ese umbral": 0.5217,
+   "F1@0.5": 0.2745,
+   "P@0.5": 0.2,
+   "R@0.5": 0.4375,
+   "positivos": 16,
+   "recall en ese umbral": 0.375,
+   "regla post-hoc": "precisión ≥ 0.80",
+   "umbral F1 máx": 0.9,
+   "umbral post-hoc": 0.9,
+   "umbral precisión ≥ 0.6": 0.85
+  },
+  "sabor": {
+   "F1 en ese umbral": 0.5051,
+   "F1@0.5": 0.5051,
+   "P@0.5": 0.5319,
+   "R@0.5": 0.4808,
+   "positivos": 52,
+   "recall en ese umbral": 0.3846,
+   "regla post-hoc": "precisión ≥ 0.80",
+   "umbral F1 máx": 0.5,
+   "umbral post-hoc": 0.95,
+   "umbral precisión ≥ 0.6": 0.7
+  }
+ },
+ "flagging_barcelona": {
+  "LogReg (umbral F1 máx, Madrid)": {
+   "1-2★": 81.9287,
+   "3★": 61.6369,
+   "4★": 38.3899,
+   "5★": 29.2474
+  },
+  "LogReg (umbral post-hoc, Madrid)": {
+   "1-2★": 72.5964,
+   "3★": 53.218,
+   "4★": 34.396,
+   "5★": 25.5316
+  },
+  "LogReg (umbral precisión ≥ 0.6, Madrid)": {
+   "1-2★": 59.74,
+   "3★": 33.1943,
+   "4★": 11.4675,
+   "5★": 5.5979
+  },
+  "LogReg_borrado (umbral 0.5)": {
+   "1-2★": 84.2805,
+   "3★": 64.2999,
+   "4★": 37.3605,
+   "5★": 27.4999
+  },
+  "regex v1": {
+   "1-2★": 27.365,
+   "3★": 14.6047,
+   "4★": 6.2567,
+   "5★": 3.0993
+  }
+ },
+ "regla_posthoc": {
+  "atencion": "precisión ≥ 0.80",
+  "cobro": "máximo F1 (ninguno llega a 0.80)",
+  "cocina_mesa": "máximo F1 (ninguno llega a 0.80)",
+  "llegada": "máximo F1 (ninguno llega a 0.80)",
+  "local": "precisión ≥ 0.80",
+  "precio": "precisión ≥ 0.80",
+  "sabor": "precisión ≥ 0.80"
+ },
+ "umbrales_f1": {
+  "atencion": 0.65,
+  "cobro": 0.15,
+  "cocina_mesa": 0.7,
+  "llegada": 0.3,
+  "local": 0.8,
+  "precio": 0.9,
+  "sabor": 0.5
+ },
+ "umbrales_p60": {
+  "atencion": 0.8,
+  "cobro": null,
+  "cocina_mesa": 0.9,
+  "llegada": null,
+  "local": 0.8,
+  "precio": 0.85,
+  "sabor": 0.7
+ },
+ "umbrales_posthoc": {
+  "atencion": 0.95,
+  "cobro": 0.15,
+  "cocina_mesa": 0.7,
+  "llegada": 0.3,
+  "local": 0.8,
+  "precio": 0.9,
+  "sabor": 0.95
+ }
+}
